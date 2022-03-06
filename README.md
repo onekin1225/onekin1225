@@ -1,8 +1,9 @@
+![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/906415095473655810.png)
 <h1 align="center">Hi 👋, I'm Windowsed</h1>
 <h3 align="center">A Developer from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=windowsed1225&label=Profile%20views&color=0e75b6&style=flat" alt="windowsed1225" /> </p>
-![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/906415095473655810.png)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=windowsed1225" alt="windowsed1225" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/windowsed1225" target="blank"><img src="https://img.shields.io/twitter/follow/windowsed1225?logo=twitter&style=for-the-badge" alt="windowsed1225" /></a> </p>
