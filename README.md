@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/windowsed1225" target="blank"><img src="https://img.shields.io/twitter/follow/windowsed1225?logo=twitter&style=for-the-badge" alt="windowsed1225" /></a> </p>
 
 - 🔭 I’m currently working on **Empressival**
-![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/906415095473655810.png)
+- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/942082423846486056.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/windowsed1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="windowsed1225" height="30" width="40" /></a>
